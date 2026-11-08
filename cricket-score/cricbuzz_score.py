@@ -16,11 +16,13 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 URL = "https://www.cricbuzz.com/"
 
 # Found with Chrome -> right-click the score -> Inspect.
-# Each match card on the home page is a link to its live-score page:
-#   <a href="https://www.cricbuzz.com/live-cricket-scores/..." class="h-full block w-[316px]">
+# Every match card on the home page is a link to that match's live-score page:
+#   <a href="https://www.cricbuzz.com/live-cricket-scores/161256/...">
+#        INDU19  85-4 (22.1)   PAKU19   India U19 opt to bat </a>
+# (Its CSS classes change with the window size, so we don't rely on them.)
 # Checked in the browser console first:
-#   document.querySelectorAll("a[href*='/live-cricket-scores/'][class*='w-[316px]']")
-SCORE_CARD = "a[href*='/live-cricket-scores/'][class*='w-[316px]']"
+#   document.querySelectorAll("a[href*='/live-cricket-scores/']")
+MATCH_LINK = "a[href*='/live-cricket-scores/']"
 
 # Text that looks like a score: 147-2, 287/4, 134 (41), 356 & 147-2
 SCORE_PATTERN = re.compile(r"\d+\s*[-/]\s*\d+|\d+\s*\(\d+(\.\d)?\)")
@@ -39,8 +41,12 @@ def tidy(card_text):
     lines = []
     for line in card_text.splitlines():
         line = line.strip()
-        if not line or line.upper() == "WATCH NOW":
+        if not line or line.upper() in ("WATCH NOW", "SCHEDULE", "POINTS TABLE",
+                                         "LIVE", "LIST A", "TEST", "ODI", "T20I"):
             continue
+        half = len(line) // 2                    # "WIWI" -> "WI"
+        if len(line) % 2 == 0 and half and line[:half] == line[half:]:
+            line = line[:half]
         if lines and lines[-1] == line:          # team names appear twice
             continue
         lines.append(line)
@@ -101,18 +107,24 @@ def main():
             browser.close()
             sys.exit(1)
 
-        # Wait for the score cards themselves - no fixed sleep().
+        # Only the match links that actually contain a score (e.g. 85-4 (22.1)).
+        cards = page.locator(MATCH_LINK).filter(has_text=SCORE_PATTERN)
+
+        # Wait for the first score to appear - no fixed sleep().
         try:
-            page.wait_for_selector(SCORE_CARD, state="visible", timeout=20_000)
+            cards.first.wait_for(state="visible", timeout=20_000)
         except PlaywrightTimeout:
-            print("No score cards appeared within 20 s - Cricbuzz may be slow "
-                  "or its layout has changed.")
             page.screenshot(path="score.png")
+            if page.locator(MATCH_LINK).count():
+                print("No live match right now - Cricbuzz shows only "
+                      "upcoming fixtures.")
+            else:
+                print("No match cards appeared within 20 s - Cricbuzz may be "
+                      "slow or its layout has changed.")
             print("\nsaved score.png")
             browser.close()
-            sys.exit(1)
+            sys.exit(0)
 
-        cards = page.locator(SCORE_CARD)
         index, text, is_live = pick_card(cards)
 
         if index is None:
