@@ -28,6 +28,9 @@ SCORE_PATTERN = re.compile(r"\d+\s*[-/]\s*\d+|\d+\s*\(\d+(\.\d)?\)")
 FINISHED = ("won", "drawn", "draw", "tied", "abandoned", "no result")
 
 HEADLESS = "--headless" in sys.argv
+USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+              "AppleWebKit/537.36 (KHTML, like Gecko) "
+              "Chrome/142.0.0.0 Safari/537.36")
 
 
 def tidy(card_text):
@@ -45,7 +48,7 @@ def tidy(card_text):
     parts, i = [], 0
     while i < len(lines):
         nxt = lines[i + 1] if i + 1 < len(lines) else ""
-        if nxt and SCORE_PATTERN.search(nxt) and not SCORE_PATTERN.search(lines[i]):
+        if nxt[:1].isdigit() and not lines[i][:1].isdigit():
             parts.append(f"{lines[i]} {nxt}")    # team + its score
             i += 2
         else:
@@ -70,10 +73,33 @@ def pick_card(cards):
 
 def main():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=HEADLESS, slow_mo=0 if HEADLESS else 400)
-        page = browser.new_page(viewport={"width": 1366, "height": 900})
+        # Use the Google Chrome installed on the Mac (channel="chrome").
+        # Playwright's bundled test Chromium is often refused by Cricbuzz.
+        try:
+            browser = p.chromium.launch(channel="chrome", headless=HEADLESS,
+                                        slow_mo=0 if HEADLESS else 400)
+        except Exception:
+            browser = p.chromium.launch(headless=HEADLESS,
+                                        slow_mo=0 if HEADLESS else 400)
+        # Present itself like a normal desktop Chrome (headless mode otherwise
+        # sends "HeadlessChrome" as its name, which the site blocks).
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            viewport={"width": 1366, "height": 900},
+            locale="en-IN",
+            timezone_id="Asia/Kolkata",
+        )
+        page = context.new_page()
         print(f"Opening {URL} ({'headless' if HEADLESS else 'headed'}) ...")
         page.goto(URL, wait_until="domcontentloaded", timeout=60_000)
+
+        if "access denied" in page.title().lower():
+            page.screenshot(path="score.png")
+            print("Cricbuzz refused the connection (Access Denied).")
+            print("Wait 10-15 minutes before trying again, or run headed first:")
+            print("    python cricbuzz_score.py")
+            browser.close()
+            sys.exit(1)
 
         # Wait for the score cards themselves - no fixed sleep().
         try:
