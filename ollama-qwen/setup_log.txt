@@ -1,0 +1,30 @@
+Ollama setup check - 2026-11-09 20:53
+
+$ ollama --version
+ollama version is 0.40.15
+
+$ ollama list
+NAME          ID              SIZE      MODIFIED     
+qwen2.5:3b    357c53fb659c    1.9 GB    13 hours ago
+
+$ ollama show qwen2.5:3b
+  Model
+    architecture        qwen2          
+    parameters          3.1B           
+    context length      32768          
+    embedding length    2048           
+    quantization        Q4_K_M         
+    template source     go_template    
+
+  Capabilities
+    completion    
+    tools         
+
+  System
+    You are Qwen, created by Alibaba Cloud. You are a helpful assistant.    
+
+  License
+    Qwen RESEARCH LICENSE AGREEMENT                                     
+    Qwen RESEARCH LICENSE AGREEMENT Release Date: September 19, 2024    
+    ...
+
