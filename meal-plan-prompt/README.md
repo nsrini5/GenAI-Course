@@ -57,10 +57,13 @@ peanut chutney, ragi mudde / bisi bele bath appear for Karnataka)
 
 ## What I changed after the first run, and why
 
-<!-- write 2-3 lines from YOUR run 1, e.g. -->
-- ___
-- ___
-- ___
+- Run 1 used my profile with *Allergies: none*. The plan looked good, but it had chapati twice,
+  rava and semiya upma, wheat dosa and broken wheat upma.
+- I have a gluten issue: roti, chapati and other wheat products make my stomach bloat. So I
+  changed only the Allergies line to **gluten** and added one rule listing the wheat items to avoid
+  (plus gluten-free hing) — see [`meal_plan_prompt_gluten_free.md`](meal_plan_prompt_gluten_free.md).
+- In Run 2 the table kept the same 28-row structure and only the dishes changed: jowar roti,
+  ragi roti, kambu dosa, thinai upma and samai kichadi. That showed me the prompt is reusable.
 
 ---
 
