@@ -1,0 +1,1498 @@
+[
+  {
+    "for_farmers": true,
+    "name": "Training to Farmers",
+    "sector": "Crop Farming",
+    "categories": [
+      "Training & Extension"
+    ],
+    "districts": [
+      "Coimbatore",
+      "Dindigul",
+      "Erode",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Namakkal",
+      "Perambalur",
+      "Virudhunagar",
+      "Theni",
+      "Vellore",
+      "Salem",
+      "Pudukkottai",
+      "Madurai",
+      "Tirunelveli",
+      "Thoothukudi"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "Small farmers",
+      "Marginal farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Cash / Direct transfer"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Rs.300 per farmer for 2 days.",
+    "summary": "All maize growing farmers are eligible to avail of the subsidy under this scheme. Preference will be given to Small/Marginal farmers, with specific allocations for SC/ST and women farmers/groups.",
+    "eligibility": "",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.300 per farmer for 2 days.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Crop cultivation",
+    "training_duration": "2 days",
+    "training_venue": "",
+    "training_fee": "Free",
+    "title": "Training to Farmers",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTU2Ng==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Production of Foundation and Certified Seeds",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Rs.1000 per quintal",
+    "summary": "Farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit. This scheme provides a subsidy for the production of these seeds.",
+    "eligibility": "",
+    "how_to_apply": "Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.1000 per quintal",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Production of Foundation and Certified Seeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=ODAz",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Nuclear Poly Hedrosis Virus",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% cost of input limited to Rs. 250/- ha.",
+    "summary": "This scheme provides a subsidy for the distribution of Nuclear Poly Hedrosis Virus to farmers raising seed farms with Pulses crop. The subsidy is subject to availability of funds.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% cost of input limited to Rs. 250/- ha.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Nuclear Poly Hedrosis Virus",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTI4MA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Rhizobium Packets - Oilseeds",
+    "sector": "Oilseeds",
+    "categories": [
+      "Seeds & Planting Material",
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of 50% on the cost or Rs.100/-per ha whichever is less.",
+    "summary": "This scheme provides a subsidy for the distribution of Rhizobium packets to farmers. It is aimed at those who produce and supply Foundation and Certified Class seeds to the Department.",
+    "eligibility": "Those farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit.",
+    "how_to_apply": "Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "50% on the cost or Rs.100/-per ha whichever is less",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Rhizobium Packets - Oilseeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQ1MQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Livelihood activities for asset less persons-2012",
+    "sector": "Other Allied",
+    "categories": [
+      "Income Support & Relief",
+      "Credit, Loans & Interest Subsidy"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase",
+      "Loan / Interest subsidy"
+    ],
+    "apply_mode": [
+      "Not stated"
+    ],
+    "benefit": "Subsidy-600/ Ha",
+    "summary": "This scheme provides loan assistance for income generation activities and a revolving fund to Self Help Groups. It aims to support asset-less individuals in improving their livelihoods.",
+    "eligibility": "",
+    "how_to_apply": "",
+    "subsidy_amount": "600",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Livelihood activities for asset less persons-2012",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=NDQw",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Production of Foundation Seeds",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Farmers can receive a subsidy of Rs.1000 per quintal.",
+    "summary": "This scheme provides a subsidy for farmers who raise seed farms with Pulses crop. The subsidy is subject to availability of funds.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible.",
+    "how_to_apply": "Submit the application to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.1000 per quintal",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Production of Foundation Seeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQ1Mg==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Gypsum",
+    "sector": "Crop Farming",
+    "categories": [
+      "Fertilizers & Soil Health"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% on the cost of Material plus transport limited to Rs. 750/- per Ha.",
+    "summary": "This scheme provides a subsidy for the distribution of gypsum to farmers raising seed farms with pulses. The subsidy is subject to the availability of funds.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, The Assistant Director of Agriculture at the Block Level, The Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% on the cost of Material plus transport limited to Rs. 750/- per Ha.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Gypsum",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQ5MQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of manually operated Plant Protection Equipment",
+    "sector": "Crop Farming",
+    "categories": [
+      "Plant Protection & Pesticides"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less.",
+    "summary": "This scheme provides a subsidy for manually operated plant protection equipment to farmers. It is aimed at those who raise seed farms with pulses crops.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "50% on the cost of equipment or Rs. 800/- whichever is less",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of manually operated Plant Protection Equipment",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQzNw==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Pipes carrying water from source to field - Pulses ISPOM",
+    "sector": "Crop Farming",
+    "categories": [
+      "Irrigation & Water Management",
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Subsidy of 50% cost or Rs.15000 for water carrying pipes up to 800m.",
+    "summary": "This scheme provides a subsidy for the purchase of water carrying pipes for farmers. It aims to support irrigation efforts by making water transport more accessible.",
+    "eligibility": "All farmers are eligible limited to target; 24% flow to SC/ST farmers will be ensured; 20% flow to women farmers/women groups.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% cost or Rs.15000 for water carrying pipes up to 800m",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Pipes carrying water from source to field - Pulses ISPOM",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTMxNA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Rhizobium",
+    "sector": "Crop Farming",
+    "categories": [
+      "Fertilizers & Soil Health"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% on the cost of Rhizobium or Rs.100/- per ha. whichever is less.",
+    "summary": "This scheme provides a subsidy for the distribution of Rhizobium to farmers who raise seed farms with Pulses crop. The subsidy is subject to the availability of funds.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible.",
+    "how_to_apply": "Submit the application to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "50% on the cost of Rhizobium or Rs.100/- per ha. whichever is less.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Rhizobium",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=OTE2",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Soil Health card",
+    "sector": "Other Allied",
+    "categories": [
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Farmers will receive a soil health card after testing their soil samples.",
+    "summary": "Soil health cards will be distributed to farmers who submit soil samples for testing. A fee of Rs.5 is required for testing macro and micro nutrients.",
+    "eligibility": "",
+    "how_to_apply": "Farmers must submit soil samples at the designated agriculture office and pay the fee.",
+    "subsidy_amount": "",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Soil Health card",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQzOA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Training of Farmers on Pulses Production Technologies",
+    "sector": "Crop Farming",
+    "categories": [
+      "Training & Extension"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Training / Demonstration"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A provision of Rs.15000 per batch of 50 farmers.",
+    "summary": "This scheme provides training to farmers on pulses production technologies. All farmers who raise seed farms with pulses crop are eligible to avail the subsidy subject to availability of funds.",
+    "eligibility": "SC/ST 24%, Farm Women 20%.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, The Assistant Director of Agriculture at the Block Level, The Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.15000 per batch of 50 farmers",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Crop cultivation",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Training of Farmers on Pulses Production Technologies",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTA1OQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Certified seeds - Oil Seeds",
+    "sector": "Oilseeds",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% of the cost of seed or Rs. 1200/- per quintal whichever is less.",
+    "summary": "This scheme provides a subsidy for certified oilseed seeds to farmers. Farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit.",
+    "eligibility": "Farmers who produce and supply Foundation and Certified Class seeds.",
+    "how_to_apply": "Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% of the cost of seed or Rs. 1200/- per quintal whichever is less.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Certified seeds - Oil Seeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=OTIw",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "sector": "Oilseeds",
+    "categories": [
+      "Seeds & Planting Material",
+      "Fertilizers & Soil Health",
+      "Plant Protection & Pesticides",
+      "Training & Extension",
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "All crops"
+    ],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase",
+      "Training / Demonstration"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Various subsidies are provided for seeds, inputs, and training.",
+    "summary": "The scheme supports farmers in the production of oilseeds, oilpalm, and maize through various subsidies and training programs. It includes provisions for seed distribution, pest management demonstrations, and equipment subsidies.",
+    "eligibility": "Farmers",
+    "how_to_apply": "Farmers can apply through the Village Level Assistant Agricultural Officer or at the Block and District levels.",
+    "subsidy_amount": "50% of the cost with various maximum limits specified for different inputs.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Other",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQxMg==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Quality Paddy seed Distribution",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Paddy"
+    ],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of 5 per kg of certified paddy seeds will be allowed in the sale price at the time of purchase.",
+    "summary": "This scheme provides a subsidy for certified paddy seeds to farmers. It aims to support farmers by reducing the cost of purchasing quality seeds.",
+    "eligibility": "",
+    "how_to_apply": "Farmers can avail the subsidy at Agricultural Extension Centers through various agricultural officers at village, block, and district levels.",
+    "subsidy_amount": "5 per kg",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Quality Paddy seed Distribution",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQwMQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Organizing Block Demonstration through Department and also through TNAU",
+    "sector": "Crop Farming",
+    "categories": [
+      "Training & Extension",
+      "Other"
+    ],
+    "districts": [
+      "Coimbatore",
+      "Dindigul",
+      "Erode",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Namakkal",
+      "Perambalur",
+      "Virudhunagar",
+      "Theni",
+      "Vellore",
+      "Salem",
+      "Pudukkottai",
+      "Madurai",
+      "Tirunelveli",
+      "Thoothukudi"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Maize"
+    ],
+    "farmer_groups": [
+      "Small farmers",
+      "Marginal farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Rs.4000/- per demonstration of 1 ha.",
+    "summary": "This scheme provides grants for organizing block demonstrations for maize growing farmers. It aims to support small and marginal farmers, with specific allocations for SC/ST and women farmers/groups.",
+    "eligibility": "All maize growing farmers are eligible to avail of the subsidy under this scheme.",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.4000/- per demonstration of 1 ha.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Crop cultivation",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Organizing Block Demonstration through Department and also through TNAU",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTE0Mw==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Production of Certified Seeds",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of Rs.1000/- per quintal.",
+    "summary": "All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds. The scheme aims to support farmers in the production of certified seeds.",
+    "eligibility": "",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.1000/- per quintal",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Production of Certified Seeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQyMQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "sector": "Crop Farming",
+    "categories": [
+      "Training & Extension",
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Groundnut"
+    ],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Cash / Direct transfer"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "An assistance of Rs.4000/- towards the cost of inputs to organize the demonstration and Rs.4000/- to cover the land with Polythene sheet per ha will be provided.",
+    "summary": "This scheme provides financial assistance to farmers for organizing demonstrations on Polythene mulch technology in groundnut cultivation. It aims to promote better agricultural practices and improve crop yield.",
+    "eligibility": "Those farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit.",
+    "how_to_apply": "Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.4000/- towards the cost of inputs and Rs.4000/- to cover the land with Polythene sheet per ha",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTUwMg==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Minikits at free of cost",
+    "sector": "Crop Farming",
+    "categories": [
+      "Other"
+    ],
+    "districts": [
+      "Coimbatore",
+      "Dindigul",
+      "Erode",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Namakkal",
+      "Perambalur",
+      "Virudhunagar",
+      "Theni",
+      "Vellore",
+      "Salem",
+      "Pudukkottai",
+      "Madurai",
+      "Tirunelveli",
+      "Thoothukudi"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "All crops"
+    ],
+    "farmer_groups": [
+      "Small farmers",
+      "Marginal farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Farmers can avail of the subsidy under this scheme.",
+    "summary": "All maize growing farmers are eligible to avail of the subsidy under this scheme. Preference will be given to Small/Marginal farmers, with specific allocations for SC/ST and women farmers/groups.",
+    "eligibility": "",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "100%",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Minikits at free of cost",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=ODIy",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "Paddy",
+      "Millets",
+      "Pulses",
+      "Cotton"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Farmers will be paid the difference of cost between the full cost eligible and the amount of advance paid as 90%.",
+    "summary": "This scheme allows farmers to produce and supply seeds to the Department of Agriculture on a contract basis. It provides training and support for seed production, ensuring quality through certification.",
+    "eligibility": "All farmers who produce and supply seeds to the Department of Agriculture on a contract basis.",
+    "how_to_apply": "Submit the application to the Assistant Agricultural officer at the Village Level or Agricultural Officer / Deputy Agricultural Officer at the Block Level.",
+    "subsidy_amount": "Premium ranges from Re.1 /- to Rs. 3 /- per Kg of seeds.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Other",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTM5OQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Farmers Training",
+    "sector": "Other Allied",
+    "categories": [
+      "Training & Extension"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Training / Demonstration"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Financial assistance of Rs.5000/- per training.",
+    "summary": "50 farmers / Agricultural labourers will be trained in a cluster with financial assistance. The training aims to enhance the skills and knowledge of farmers.",
+    "eligibility": "",
+    "how_to_apply": "Submit the application to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "Rs.5000/-",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": true,
+    "training_topic": "Other",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Farmers Training",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTA0NA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "sector": "Other Allied",
+    "categories": [
+      "Training & Extension",
+      "Cattle & Dairy Farming",
+      "Fisheries & Aquaculture"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Subsidy of Rs.1560/-",
+    "summary": "This scheme focuses on demonstrating new crops, varieties, and technologies in agriculture and allied sectors. It promotes diversification of production systems and includes activities like organic farming, livestock management, and fisheries development.",
+    "eligibility": "",
+    "how_to_apply": "Contact the Chairman / District Collector or Project Officer / Joint Director of Agriculture at the district level.",
+    "subsidy_amount": "Rs.1560/-",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Farm Production System and micro enterprises - Sponsored By State Govt",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTE3",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Certified Seeds of maize",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "Coimbatore",
+      "Dindigul",
+      "Erode",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Namakkal",
+      "Perambalur",
+      "Virudhunagar",
+      "Theni",
+      "Vellore",
+      "Salem",
+      "Pudukkottai",
+      "Madurai",
+      "Tirunelveli",
+      "Thoothukudi"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": 5.0,
+    "crops": [
+      "Maize"
+    ],
+    "farmer_groups": [
+      "Small farmers",
+      "Marginal farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% of the cost of the seed subject to a maximum of Rs.1200/- per Quintal whichever is less.",
+    "summary": "All maize growing farmers are eligible to avail of the subsidy under this scheme. Preference will be given to Small/Marginal farmers, with specific allocations for SC/ST and women farmers/groups.",
+    "eligibility": "All maize growing farmers.",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% of the cost of the seed subject to a maximum of Rs.1200/- per Quintal.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Certified Seeds of maize",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQyMw==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Organizing Block Demonstration",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material",
+      "Fertilizers & Soil Health"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": 5.0,
+    "crops": [
+      "Pulses"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of 50% on the cost of inputs required to layout the demonstration of 5 ha each or Rs.2000/- whichever is less.",
+    "summary": "The scheme provides a subsidy for farmers who raise seed farms with Pulses crop to layout demonstrations. It aims to support farmers in improving their agricultural practices.",
+    "eligibility": "All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "50% on the cost of inputs or Rs.2000/- whichever is less",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Organizing Block Demonstration",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTIyOA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Farmers Interest Group  (FIG)",
+    "sector": "Crop Farming",
+    "categories": [
+      "Other"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "An assistance of Rs.5000 per group towards purchase of office equipments, purchase of technical bulletins and setting up of Library.",
+    "summary": "The scheme supports groups of farmers by providing financial assistance for various activities. Each group can consist of 15 farmers and receive funds for training, equipment, and meetings.",
+    "eligibility": "",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs. 400 /- to Rs. 20,000/-",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Farmers Interest Group  (FIG)",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTA5Mw==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Pipes carrying water from source to field",
+    "sector": "Other Allied",
+    "categories": [
+      "Irrigation & Water Management"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Subsidy on 50% cost or Rs.15000 for water carrying pipes up to 800m.",
+    "summary": "This scheme provides financial assistance for the purchase of water carrying pipes. It aims to support farmers in improving their irrigation facilities.",
+    "eligibility": "All farmers are eligible limited to target.",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "50% cost or Rs.15000 for water carrying pipes up to 800m.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Pipes carrying water from source to field",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTU2OQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "sector": "Other Allied",
+    "categories": [
+      "Income Support & Relief",
+      "Credit, Loans & Interest Subsidy"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Subsidy of Rs.1200/-",
+    "summary": "This scheme provides loan assistance for income generation activities and a revolving fund to Self Help Groups. It aims to support asset-less individuals in improving their livelihoods.",
+    "eligibility": "",
+    "how_to_apply": "Contact the Chairman / District Collector or Project Officer / Joint Director of Agriculture at the district level.",
+    "subsidy_amount": "Rs.1200/-",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Livelihood activities for asset less persons - Sponsored By State Govt",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTE4",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Micro Nutrient spray",
+    "sector": "Crop Farming",
+    "categories": [
+      "Fertilizers & Soil Health"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "All crops"
+    ],
+    "farmer_groups": [
+      "All farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A subsidy of 50% or Rs.70/- per ha whichever is less.",
+    "summary": "The scheme provides a subsidy for the application of micro nutrient spray to farmers. It aims to ensure that a portion of the benefits flow to SC/ST farmers and women farmers/groups.",
+    "eligibility": "All farmers are eligible limited to target.",
+    "how_to_apply": "The Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% or Rs.70/- per ha whichever is less.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Micro Nutrient spray",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTI1NA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Integrated Pest Management Demonstration cum Training",
+    "sector": "Crop Farming",
+    "categories": [
+      "Training & Extension"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [
+      "All crops"
+    ],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Infrastructure grant"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "A lumpsum provision of Rs.17,000 is allowed towards Demonstration of 40 Ha. each and Training per Farmers Field School through cluster approach.",
+    "summary": "This scheme provides training and demonstration on integrated pest management to farmers. It aims to enhance the knowledge and skills of farmers in managing pests effectively.",
+    "eligibility": "",
+    "how_to_apply": "The application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, the Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "Rs.17000/- for 30 Farmers",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training:true,": "Crop cultivation",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "is_training": false,
+    "training_topic": "",
+    "title": "Integrated Pest Management Demonstration cum Training",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTQ2MQ==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Distribution of Gypsum - Oil Seeds",
+    "sector": "Oilseeds",
+    "categories": [
+      "Fertilizers & Soil Health"
+    ],
+    "districts": [
+      "All Districts"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": null,
+    "crops": [],
+    "farmer_groups": [
+      "All farmers"
+    ],
+    "benefit_types": [
+      "Subsidy on purchase"
+    ],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "50% of the cost of material plus transport limited to Rs. 750/- per ha whichever is less.",
+    "summary": "This scheme provides a subsidy for the distribution of gypsum to farmers producing and supplying Foundation and Certified Class seeds. It aims to support oilseed farmers by reducing their input costs.",
+    "eligibility": "Those farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit.",
+    "how_to_apply": "Application is to be submitted to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Joint Director of Agriculture at the District Level.",
+    "subsidy_amount": "50% of the cost of material plus transport limited to Rs. 750/- per ha whichever is less.",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Distribution of Gypsum - Oil Seeds",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=MTU0NA==",
+    "department": "Agriculture"
+  },
+  {
+    "for_farmers": true,
+    "name": "Production of Certified Seeds of Maize",
+    "sector": "Crop Farming",
+    "categories": [
+      "Seeds & Planting Material"
+    ],
+    "districts": [
+      "Coimbatore",
+      "Dindigul",
+      "Erode",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Namakkal",
+      "Perambalur",
+      "Virudhunagar",
+      "Theni",
+      "Vellore",
+      "Salem",
+      "Pudukkottai",
+      "Madurai",
+      "Tirunelveli",
+      "Thoothukudi"
+    ],
+    "seasons": [
+      "All Seasons"
+    ],
+    "min_acres": null,
+    "max_acres": 5.0,
+    "crops": [
+      "Maize"
+    ],
+    "farmer_groups": [
+      "Small farmers",
+      "Marginal farmers",
+      "SC/ST",
+      "Women"
+    ],
+    "benefit_types": [],
+    "apply_mode": [
+      "Agriculture / Block office"
+    ],
+    "benefit": "Farmers can avail a subsidy of Rs.1000 per quintal.",
+    "summary": "This scheme provides a subsidy for the production of certified seeds of maize. It aims to support maize growing farmers, especially small and marginal farmers.",
+    "eligibility": "All maize growing farmers are eligible to avail of the subsidy under this scheme.",
+    "how_to_apply": "Submit the application to the Assistant Agricultural officer at the Village Level, Agricultural Officer / Deputy Agricultural Officer at the Block Level, or the Assistant Director of Agriculture at the Block Level.",
+    "subsidy_amount": "Rs.1000 per Quintal",
+    "unit_cost": "",
+    "documents_required": [],
+    "contact": "",
+    "apply_link": "",
+    "deadline": "",
+    "is_training": false,
+    "training_topic": "",
+    "training_duration": "",
+    "training_venue": "",
+    "training_fee": "",
+    "title": "Production of Certified Seeds of Maize",
+    "url": "https://www.tn.gov.in/scheme_details.php?id=OTAw",
+    "department": "Agriculture"
+  }
+]
