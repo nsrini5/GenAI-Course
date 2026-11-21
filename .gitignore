@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Assignment extras
+bot_recording_raw_*.mov
+recording_log.txt
+~$*
+.DS_Store
+
+# Separate repository (published on its own)
+fastapi-basic-app/
+Offline1-Social Eagle/
